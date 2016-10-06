@@ -8,7 +8,6 @@ Duke University <br />
 ### Course Description
 The Coursera course, Data Analysis and Statistical Inference has been revised and is now offered 
 as part of Coursera Specialization “Statistics with R”.
- 
 This Specialization consists of 4 courses and a capstone project. The courses can be taken separately: 
 - Introduction to Probability and Data (began in April 2016)
 - Inferential Statistics (begins in May 2016)
@@ -18,7 +17,6 @@ This Specialization consists of 4 courses and a capstone project. The courses ca
 
  
 The Statistics with R team.
-
 ___________________________________________________
 The goals of this course are as follows:
 - Recognize the importance of data collection, identify limitations in data collection methods, and determine how they affect the scope of inference.
