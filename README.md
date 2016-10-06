@@ -1,4 +1,4 @@
-# Statistical-Inference-and-Data-Analysis-
+# Statistical Inference and Data Analysis 
 Grade Achieved: 93.0% <br />
 Completed by Mao Ye on May 10, 2015 <br />
 10 weeks  |  8-10 hours/week <br />
